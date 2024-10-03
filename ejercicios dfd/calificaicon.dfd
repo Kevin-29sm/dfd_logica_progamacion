@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+67
+"solicita al usuario que coloque una calificacion numerica (0-100)"
+7
+0
+1
+16
+calificacion>=90
+7
+0
+1
+16
+calificacion>=80
+13
+4
+1
+22
+"la calificaicon es B"
+13
+13
+4
+1
+22
+"la calificacion es A"
+13
+1
